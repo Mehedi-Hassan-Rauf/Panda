@@ -1,0 +1,83 @@
+.container {
+  margin-bottom: 8%;
+}
+
+#carouselExampleControls {
+  border-radius: 2%;
+  background-color: #fceae8 !important;
+}
+#carouselExampleControls img {
+  height: 500px;
+}
+
+.carousel-item h1 {
+  margin-top: 20%;
+}
+
+#price {
+  margin: 0;
+  color: #ff136f;
+}
+
+.btn {
+  margin-top: 1%;
+  background-color: #ff136f !important;
+  border: none;
+}
+
+.btn :hover {
+  background-color: #ff136f !important;
+}
+
+/* kkk */
+.set1 {
+  background-color: orange;
+}
+
+.set2 {
+  background-color: orchid;
+}
+
+.set3 {
+  background-color: blue;
+}
+.product {
+  height: 120px;
+  width: 100%;
+  padding: 15px 30px;
+  border-radius: 10px;
+}
+
+.product h1 {
+  color: #fff;
+  width: fit-content;
+  float: left;
+  margin-top: 5%;
+}
+
+.product img {
+  width: 30%;
+  float: right;
+}
+
+/* kkk */
+
+.card {
+  width: 22rem !important;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px lightgrey;
+}
+/* kkk */
+
+.footer {
+  height: 300px;
+  width: 100%;
+  background-color: #fceae8;
+}
+
+.form-floating {
+  width: 28% !important;
+  left: 35%;
+  top: 25%;
+}
